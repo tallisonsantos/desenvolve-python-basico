@@ -1,0 +1,8 @@
+Inicio
+Leia n;
+x=n-1;
+y=x*10;
+z=10-n;
+r=y+z;
+Imprima r;
+Fim

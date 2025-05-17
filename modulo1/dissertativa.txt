@@ -1,0 +1,7 @@
+Tabuada do 9
+1º passo: Leia e armazene o número "n" para multiplicar o número 9; #ENTRADA
+2º passo: Aplique a operação de diminuição do "n" pelo número 1 e armazene o resultado em "x";
+3º passo: Aplique a operação de multiplicação do "x" pelo número 10 e armazene o resultado em "y";
+4º passo: Aplique a operação de diminuição do número 10 pelo "n" e armazene o resultado em "z";
+5º passo: Aplique a operação de soma do "y" e do "z" e armazene o resultado em "r";
+6º passo: Apresente o resultado "r" e finalize o programa; #SAÍDA
