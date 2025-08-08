@@ -1,0 +1,10 @@
+python
+banana
+cachorro
+abacaxi
+programa
+amarelo
+computador
+jardim
+livro
+caneta
