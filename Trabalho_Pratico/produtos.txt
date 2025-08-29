@@ -1,0 +1,16 @@
+A001,Sorvete de Morango,Sorvete,5.50,150
+A002,Sorvete de Chocolate,Sorvete,5.50,120
+A003,Sorvete de Flocos,Sorvete,5.50,100
+A004,Sorvete de Creme,Sorvete,5.00,95
+A005,Sorvete de Uva,Sorvete,5.00,80
+B001,Açaí Tradicional,Açaí,8.00,50
+B002,Açaí com Banana,Açaí,9.50,45
+B003,Açaí com Granola,Açaí,9.00,60
+C001,Picolé de Limão,Picolé,3.00,200
+C002,Picolé de Coco,Picolé,3.50,180
+C003,Picolé de Chocolate,Picolé,3.50,150
+D001,Cobertura de Chocolate,Complemento,2.50,100
+D002,Cobertura de Morango,Complemento,2.50,90
+D003,Leite Condensado,Complemento,3.00,120
+D004,Granola,Complemento,2.00,150
+D005,Tubetes de Biscoito,Complemento,1.50,250

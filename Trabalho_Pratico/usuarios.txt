@@ -1,0 +1,3 @@
+gerente,senha123,gerente
+funcionario,senha456,funcionario
+Tallison,senha321,gerente
